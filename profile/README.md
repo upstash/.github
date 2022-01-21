@@ -1,13 +1,13 @@
-# Upstash Serverless Database for Redis
+# Upstash Serverless Data for Redis and Kafka
 
-Upstash is a Serverless Database with Redis API and durable storage. It is the perfect database for your applications thanks to its:
+Upstash is a Serverless Data Platform with Redis and Kafka API. It is the perfect for your serverless applications thanks to its:
 
 - Low latency data
 - Per request pricing with monthly cap
-- Durable storage
+- Global replication
 - Ease of use
-- REST API
+- Built-in REST API
 
 See [Upstash Documentation](https://docs.upstash.com) to learn more.
 
-Start a database for free from [Upstash Console](https://console.upstash.com).
+Start for free from [Upstash Console](https://console.upstash.com).
